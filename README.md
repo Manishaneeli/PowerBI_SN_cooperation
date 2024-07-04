@@ -1,4 +1,4 @@
-# PowerBI_SN_cooperation
+# PowerBI_SN_corperation
 ## Overview
 
 This project involves a comprehensive analysis of SN Corporation's business data using Microsoft Power BI. The goal is to derive actionable insights to enhance decision-making and improve business performance.
